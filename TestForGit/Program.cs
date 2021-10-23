@@ -9,6 +9,8 @@ namespace TestForGit
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Some changes");
+
+            Console.WriteLine("After reset");
         }
     }
 }
