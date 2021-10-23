@@ -11,6 +11,14 @@ namespace TestForGit
             Console.WriteLine("Some changes");
 
             Console.WriteLine("After reset");
+
+            Console.WriteLine("Some  code");
+
+            Console.WriteLine("Some  code");
+
+            Console.WriteLine("Some  code");
+
+            Console.WriteLine("Some  code");
         }
     }
 }
