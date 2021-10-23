@@ -19,6 +19,8 @@ namespace TestForGit
             Console.WriteLine("Some  code");
 
             Console.WriteLine("Some  code");
+
+            Console.WriteLine("Add new feature");
         }
     }
 }
